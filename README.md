@@ -1,5 +1,11 @@
 # Laravel Vatlayer API
 
+<p align="center">
+<a href="https://packagist.org/packages/dees040/laravel-api-responses"><img src="https://poser.pugx.org/dees040/laravel-api-responses/v/stable" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/dees040/laravel-api-responses"><img src="https://poser.pugx.org/dees040/laravel-api-responses/downloads" alt="Total Downloads"></a>
+<a href="https://travis-ci.org/owowagency/laravel-vatlayer"><img src="https://travis-ci.org/owowagency/laravel-vatlayer.svg?branch=master" alt="Build status"></a>
+</p>
+
 Laravel Vatlayer is a very small package which helps you connect your Laravel application with the [Vatlayer API](https://vatlayer.com/).
 
 ## Installation
