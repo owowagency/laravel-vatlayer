@@ -1,5 +1,5 @@
 {
-    "name": "owowagency/vatlayer",
+    "name": "owowagency/laravel-vatlayer",
     "description": "Laravel Vatlayer is a very small package which helps you connect your Laravel application with the Vatlayer API",
     "type": "library",
     "keywords": ["laravel","owow","vatlayer"],
