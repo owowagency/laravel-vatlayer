@@ -13,7 +13,7 @@ Laravel Vatlayer is a very small package which helps you connect your Laravel ap
 Installation is very quick and easy. Install the package via Composer and you're ready to go.
 
 ```bash
-composer require owowagency/vatlayer
+composer require owowagency/laravel-vatlayer
 ```
 
 ## Setup
